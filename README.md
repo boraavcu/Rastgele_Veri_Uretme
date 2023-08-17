@@ -7,3 +7,4 @@
 * Ayrıca Form2 Butonuyla Açılan Yeni Formda Uygulamanın Kurulu Olarak Geldiği Setuptaki Orijinal isimler.txt ve soyadlar.txt Dosyasını Elinizde Var Olan txt Dosyalarıyla Değiştirebilirsiniz.
 * Yani Kendi İsimler Veya Soyadlar Veri Kümesini Kullanarak Kendi Ad , Soyad ve Telefon Kısımlarını Üretebilirsiniz.
 * Projeyi Geliştirerek Griddeki Sütun Adlarını Değiştirerek İstediğiniz Tabloya Göre Ayarlayarak Tablolalarınıza Rastgele Üretilmiş Verileri Girebilirsiniz.
+*** Programı Çalıştırmak İçin ( .msi ) Ve ( .exe ) Uzantılı Dosyaları Aynı Dizine İndirin Ve Herhangi Birini Çalıştırınız.
