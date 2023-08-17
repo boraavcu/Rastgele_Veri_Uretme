@@ -8,3 +8,7 @@
 * Yani Kendi İsimler Veya Soyadlar Veri Kümesini Kullanarak Kendi Ad , Soyad ve Telefon Kısımlarını Üretebilirsiniz.
 * Projeyi Geliştirerek Griddeki Sütun Adlarını Değiştirerek İstediğiniz Tabloya Göre Ayarlayarak Tablolalarınıza Rastgele Üretilmiş Verileri Girebilirsiniz.
 * Programı Çalıştırmak İçin ( .msi ) Ve ( .exe ) Uzantılı Dosyaları Aynı Dizine İndirin Ve Herhangi Birini Çalıştırınız.
+
+![image](https://github.com/boraavcu/Rastgele_Veri_Uretme/assets/110854353/8bb63b49-232f-44a5-8b9d-985b6e2988b2)
+
+![image](https://github.com/boraavcu/Rastgele_Veri_Uretme/assets/110854353/f45f8ba8-7108-407b-83d7-1aa689b08da2)
