@@ -1,5 +1,5 @@
 # Rastgele_Veri_Uretme
-* Türkiyede Kullanılan 1000 Adet İsim ve Soyisim String Dizi Olarak Tanımlanmıştır.
+* Türkiyede Kullanılan 1000 Adet İsim ve Soyad String Dizi Olarak Tanımlanmıştır.
 * Ayrıca Türkiyedeki Kullanılan 31 Adet 500'lü Hatlar Kullanılmıştır Geri Kalan Rakamlar Random Tanımlanmıştır. Yani Telefon Numaralarında Gerçekçilik Elde Edilmeye Çalışıldı.
 * Tekli Üret Butonuyla Tek Tek Ad Soyad ve Telefon Verisi Üretebilir Veya İlgili TextBoxa Girilen Değer Kadar Veri Üretebilirsiniz ( Maksimum 10.000 ).
 * Gride Veri Üretirken Ürettiğiniz Verilerin Gride İşleme Süresini Anlamak İçin ProgressBardan Zamanı İzleyebilirsiniz ( Aynı Durum Listboxa Aktarımdada Geçerlidir).
