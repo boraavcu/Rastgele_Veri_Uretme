@@ -1,0 +1,27 @@
+C:\Users\boraa\source\repos\Rastgele\Rastgele\obj\Debug\Rastgele.csproj.AssemblyReference.cache
+C:\Users\boraa\source\repos\Rastgele\Rastgele\obj\Debug\Rastgele.csproj.SuggestedBindingRedirects.cache
+C:\Users\boraa\source\repos\Rastgele\Rastgele\obj\Debug\Rastgele.Form1.resources
+C:\Users\boraa\source\repos\Rastgele\Rastgele\obj\Debug\Rastgele.Properties.Resources.resources
+C:\Users\boraa\source\repos\Rastgele\Rastgele\obj\Debug\Rastgele.csproj.GenerateResource.cache
+C:\Users\boraa\source\repos\Rastgele\Rastgele\obj\Debug\Rastgele.csproj.CoreCompileInputs.cache
+C:\Users\boraa\source\repos\Rastgele\Rastgele\bin\Debug\Rastgele.exe.config
+C:\Users\boraa\source\repos\Rastgele\Rastgele\bin\Debug\Rastgele.exe
+C:\Users\boraa\source\repos\Rastgele\Rastgele\bin\Debug\Rastgele.pdb
+C:\Users\boraa\source\repos\Rastgele\Rastgele\obj\Debug\Rastgele.exe
+C:\Users\boraa\source\repos\Rastgele\Rastgele\obj\Debug\Rastgele.pdb
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\bin\Debug\Rastgele.exe.config
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\bin\Debug\Rastgele.exe
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\bin\Debug\Rastgele.pdb
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\obj\Debug\Rastgele.csproj.AssemblyReference.cache
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\obj\Debug\Rastgele.csproj.SuggestedBindingRedirects.cache
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\obj\Debug\Rastgele.Form1.resources
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\obj\Debug\Rastgele.Properties.Resources.resources
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\obj\Debug\Rastgele.csproj.GenerateResource.cache
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\obj\Debug\Rastgele.csproj.CoreCompileInputs.cache
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\obj\Debug\Rastgele.exe
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\obj\Debug\Rastgele.pdb
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\bin\Debug\Rastgele.exe.manifest
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\bin\Debug\Rastgele.application
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\obj\Debug\Rastgele.exe.manifest
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\obj\Debug\Rastgele.application
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Rastgele\Rastgele\obj\Debug\Rastgele.Form2.resources
