@@ -7,10 +7,10 @@
 * Ayrıca İkinci Forma Geçmeye Yarayan Butonla Açılan Yeni Formda Uygulamanın Kurulu Olarak Geldiği Setuptaki Orijinal isimler.txt ve soyadlar.txt Dosyasını Elinizde Var Olan txt Dosyalarıyla Değiştirebilirsiniz.
 * Yani Kendi İsimler Veya Soyadlar Veri Kümesini Kullanarak Kendi Ad , Soyad ve Telefon Kısımlarını Üretebilirsiniz.
 * Projeyi Geliştirerek Griddeki Sütun Adlarını Değiştirerek İstediğiniz Tabloya Göre Ayarlayarak Tablolalarınıza Rastgele Üretilmiş Verileri Girebilirsiniz.
-* Programdaki Default Olarak Atanmış isimler.txt ve soyadlar.txt Dosyalarını Geri Getirmek İsterseniz İlgili " Default isimler.txt " ve " Default soyadlar.txt" Butonlarına Tıklamınız Yeterlidir.
+* Programdaki Default Olarak Atanmış isimler.txt ve soyadlar.txt Dosyalarını Geri Getirmek İsterseniz İlgili " Default isimler.txt " ve " Default soyadlar.txt" Butonlarına Tıklamınız Yeterlidir. ( Veya Programı Baştan Kurun :) )
 * Programı Çalıştırmak İçin Setup_Rastgele Klasörünü Açın Ardından ( .msi ) Ve ( .exe ) Uzantılı Dosyaları Aynı Dizine İndirin Ve Herhangi Birini Çalıştırınız.
 * Bu Program Belirli Bir Amaç İçin Yapılmamıştır. Tamamiyle Kendi Programlama ve Kodlama Yeteneğimi Geliştirmek Amacıyla Kısa Sürede Oluşturulan Bir Projedir.
-* Bu Programı Ayrıca SQL Ortamında Binler Hatta Milyonlarca Gerçekçi Veri Oluşturmaya İhtiyaç Duyduğum İçin Geliştirdim.
+* Bu Programı Ayrıca SQL Ortamında Binlerce Hatta Milyonlarca Gerçekçi Veri Oluşturmaya İhtiyaç Duyduğum İçin Geliştirdim.
 
 ![image](https://github.com/boraavcu/Rastgele_Veri_Uretme/assets/110854353/98b62bad-9397-480d-8523-004ab3335754)
 
