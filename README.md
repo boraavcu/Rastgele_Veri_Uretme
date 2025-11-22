@@ -36,8 +36,8 @@ Program, verileri dışarıdan okunabilir metin dosyaları (.txt) üzerinden iş
 ## 💻 Kurulum ve Kullanım
 
 1.  Bu repoyu indirin.
-2.  Proje içerisindeki `Setup_Rastgele` klasörüne gidin.
-3.  `Rastgele Veri Uretme.msi` veya `setup.exe` dosyasını çalıştırıp kurulumu tamamlayın.
+2.  Proje içerisindeki `Setup_Rastgele` klasöründen `Debug` klasörüne gidin.
+3.  `Setup_Rastgele.msi` veya `setup.exe` dosyasını çalıştırıp kurulumu tamamlayın.
 
 ---
 
