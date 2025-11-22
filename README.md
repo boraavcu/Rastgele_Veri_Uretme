@@ -1,28 +1,61 @@
-# Rastgele_Veri_Uretme
-* Türkiyede Kullanılan 1000 Adet İsim ve Soyad String Dizi Olarak Tanımlanmıştır.
-* Ayrıca Türkiyedeki Kullanılan 31 Adet 500'lü Hatlar Kullanılmıştır Geri Kalan Rakamlar Random Tanımlanmıştır. Yani Telefon Numaralarında Gerçekçilik Elde Edilmeye Çalışıldı.
-* Tekli Üret Butonuyla Tek Tek Ad Soyad ve Telefon Verisi Üretebilir Veya İlgili TextBoxa Girilen Değer Kadar Veri Üretebilirsiniz ( Performans Açısından Maksimum 10.000 İle Sınırlandırdım ).
-* Gride Veri Üretirken Ürettiğiniz Verilerin Gride İşleme Süresini Anlamak İçin ProgressBardan Zamanı İzleyebilirsiniz ( Aynı Durum Listboxa Aktarımdada Geçerlidir).
-* Eğer Veri Tabanı Tarafında Ad,Soyad ve Telefon Sütunlarını İçeren Tablonuz Var İse Bu Tablonun Adını Girerek Aktar Butonuyla Listboxa DataGriddeki Ürettiğiniz Tüm Verileri Otomatik Olarak Verdiğiniz Tablo Adına İnsert Edilmiş Şekilde Listboxa Aktarılır Ve Kopyalayarak Veri Tabanı Tarafında İnsert Edebilirsiniz.
-* Ayrıca İkinci Forma Geçmeye Yarayan Butonla Açılan Yeni Formda Uygulamanın Kurulu Olarak Geldiği Setuptaki Orijinal isimler.txt ve soyadlar.txt Dosyasını Elinizde Var Olan txt Dosyalarıyla Değiştirebilirsiniz.
-* Yani Kendi İsimler Veya Soyadlar Veri Kümesini Kullanarak Kendi Ad , Soyad ve Telefon Kısımlarını Üretebilirsiniz.
-* Projeyi Geliştirerek Griddeki Sütun Adlarını Değiştirerek İstediğiniz Tabloya Göre Ayarlayarak Tablolalarınıza Rastgele Üretilmiş Verileri Girebilirsiniz.
-* Programdaki Default Olarak Atanmış isimler.txt ve soyadlar.txt Dosyalarını Geri Getirmek İsterseniz İlgili " Default isimler.txt " ve " Default soyadlar.txt" Butonlarına Tıklamınız Yeterlidir. ( Veya Programı Baştan Kurun :) )
-* Programı Çalıştırmak İçin Setup_Rastgele Klasörünü Açın Ardından ( .msi ) Ve ( .exe ) Uzantılı Dosyaları Aynı Dizine İndirin Ve Herhangi Birini Çalıştırınız.
-* Bu Program Belirli Bir Amaç İçin Yapılmamıştır. Tamamiyle Kendi Programlama ve Kodlama Yeteneğimi Geliştirmek Amacıyla Kısa Sürede Oluşturulan Bir Projedir.
-* Bu Programı Ayrıca SQL Ortamında Binlerce Hatta Milyonlarca Gerçekçi Veri Oluşturmaya İhtiyaç Duyduğum İçin Geliştirdim.
+# 🎲 Rastgele Veri Üretici (Random Data Generator)
 
-![image](https://github.com/boraavcu/Rastgele_Veri_Uretme/assets/110854353/98b62bad-9397-480d-8523-004ab3335754)
+Bu proje, yazılım geliştirme, test süreçleri ve veritabanı yönetiminde ihtiyaç duyulan **gerçekçi test verilerini (Mock Data)** oluşturmak amacıyla geliştirilmiş bir **Windows Forms (C#)** uygulamasıdır.
 
-![image](https://github.com/boraavcu/Rastgele_Veri_Uretme/assets/110854353/95ca4cc9-0ccc-42f6-b570-56167ffb2c12)
+SQL veritabanları için binlerce satırlık tutarlı veriyi (Ad, Soyad, Telefon) saniyeler içinde oluşturabilir, özelleştirebilir ve SQL sorgusu olarak dışarı aktarabilirsiniz.
 
-![image](https://github.com/boraavcu/Rastgele_Veri_Uretme/assets/110854353/5ac86151-f3f5-4f2e-9142-c54017aecde0)
+## 🎯 Projenin Amacı
 
-![image](https://github.com/boraavcu/Rastgele_Veri_Uretme/assets/110854353/19e8821b-8977-4116-aee4-66fdb0a10206)
+Yazılım testlerinde "test1", "deneme" gibi anlamsız veriler kullanmak yerine; projenizin prodüksiyon ortamında nasıl görüneceğini simüle eden gerçekçi veriler üretmenizi sağlar.
+* **Gerçekçi:** Türkiye standartlarına uygun isim, soyisim ve telefon numaraları üretir.
+* **Yüksek Performans:** 10.000 kaydı saniyeler içinde işleme kapasitesine sahiptir.
+* **Esneklik:** Kendi veri setlerinizi (.txt) entegre edebilme imkanı sunar.
 
-![image](https://github.com/boraavcu/Rastgele_Veri_Uretme/assets/110854353/b1563c23-a88a-4ef5-9479-2f2c20d4bea6)
+## 🚀 Öne Çıkan Özellikler
 
-![image](https://github.com/boraavcu/Rastgele_Veri_Uretme/assets/110854353/f6b7eb97-5d00-4f0d-8b2f-8ecbe87aa781)
+### 1. Akıllı Telefon Numarası Algoritması
+Sıradan rastgele sayılar yerine, Türkiye'de aktif olarak kullanılan **31 farklı "500'lü" alan kodunu** (Örn: 532, 542, 555 vb.) baz alır. Numaranın geri kalanı rastgele üretilir ancak formatı gerçeğe uygundur.
 
-![image](https://github.com/boraavcu/Rastgele_Veri_Uretme/assets/110854353/98d76bad-c6c1-4f3d-8747-8847cb42b00f)
+### 2. Toplu Veri Üretimi ve Grid Yönetimi
+İster tekli, ister binlerce veriyi aynı anda üretebilirsiniz. Performans optimizasyonu için tek seferde maksimum 10.000 kayıt sınırı konulmuştur. Üretim sürecini **Progress Bar** üzerinden canlı takip edebilirsiniz.
 
+### 3. SQL Insert Script Oluşturucu (Database Ready)
+Grid üzerinde üretilen verileri, veritabanınızdaki **tablo adını** girerek anında SQL `INSERT INTO` sorgularına dönüştürebilirsiniz. Çıktıyı kopyalayıp SQL Server Management Studio (SSMS)'da direkt çalıştırabilirsiniz.
+
+### 4. Özelleştirilebilir Veri Kaynakları
+Programın içinde gelen 1000'er adetlik havuz size yetmezse; kendi `isimler.txt` veya `soyadlar.txt` dosyalarınızı sisteme yükleyebilir, programın sizin verilerinizi rastgele dağıtmasını sağlayabilirsiniz. İstediğiniz an varsayılan ayarlara dönebilirsiniz.
+
+## 🛠️ Teknik Detaylar ve Dosya Yapısı
+
+Program, verileri dışarıdan okunabilir metin dosyaları (.txt) üzerinden işler. Bu yapı, programı yeniden derlemeden veri setini değiştirmenize olanak tanır.
+
+* **Dil:** C#
+* **Platform:** .NET Framework (Windows Forms)
+* **Algoritma:** Randomize Array Selection & String Manipulation
+
+## 💻 Kurulum ve Kullanım
+
+1.  Bu repoyu indirin.
+2.  Proje içerisindeki `Setup_Rastgele` klasörüne gidin.
+3.  `Rastgele Veri Uretme.msi` veya `setup.exe` dosyasını çalıştırıp kurulumu tamamlayın.
+
+---
+
+## 📸 Uygulama Ekran Görüntüleri
+
+![Ana Ekran](assets/ana-ekran.png)
+
+![Veri Listesi](assets/veri-listesi.png)
+
+![Veri Aktarımı](assets/veri-aktarim-arayuz.png)
+
+![SQL Çıktısı](assets/sql-cikti.png)
+
+![Ayarlar Ekranı](assets/ayarlar.png)
+
+![Dosya Yapısı](assets/txt-dosya-yapisi.png)
+
+![Kurulum Dosyaları](assets/kurulum-dosyalari.png)
+
+---
+**Geliştirici:** Bora Avcu
